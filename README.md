@@ -2,9 +2,9 @@
 #mouli 
 
  git push -u origin master
-  git remote add origin https://github.com/moulidharank/CHR.git
+ git remote add origin https://github.com/moulidharank/CHR.git
 
-
+#lucky
 
 # CHR
 
