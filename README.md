@@ -4,8 +4,7 @@
  git push -u origin master
  git remote add origin https://github.com/moulidharank/CHR.git
 
-#lucky
-
+#lucky-uk
 # CHR
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.
